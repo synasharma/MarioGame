@@ -1,0 +1,29 @@
+.heading
+{
+    width:100%;
+    text-align:left;
+ 
+}
+
+.heading button{
+    float:right;
+    border: solid lightblue 2px;
+    color:black;
+  
+}
+
+.heading h3
+{
+    display:inline;
+  
+}
+
+.big_image
+{
+    width:100%;
+}
+
+#start
+{
+    font-size:22px;
+}
